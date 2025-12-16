@@ -1,0 +1,9 @@
+{
+  "name": "Copy of EchoGuard",
+  "description": "A community-driven disaster management and ecological protection platform for Indonesia featuring a liquid glass iOS-style interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

@@ -1,0 +1,63 @@
+
+[
+  {
+    "city": "Jakarta",
+    "station": "RRI Pro 3",
+    "frequency": "88.8 FM",
+    "type": "National Emergency"
+  },
+  {
+    "city": "Jakarta",
+    "station": "Elshinta Radio",
+    "frequency": "90.0 FM",
+    "type": "Disaster News"
+  },
+  {
+    "city": "Jakarta",
+    "station": "RRI Jakarta Pro 1",
+    "frequency": "91.2 FM",
+    "type": "Local Info"
+  },
+  {
+    "city": "Jakarta",
+    "station": "Radio Kepolisian",
+    "frequency": "91.1 FM",
+    "type": "Traffic/Safety"
+  },
+  {
+    "city": "Padang",
+    "station": "RRI Padang Pro 1",
+    "frequency": "97.5 FM",
+    "type": "Local Info"
+  },
+  {
+    "city": "Padang",
+    "station": "Classy FM",
+    "frequency": "103.4 FM",
+    "type": "Disaster News"
+  },
+  {
+    "city": "Palu",
+    "station": "RRI Palu Pro 1",
+    "frequency": "90.8 FM",
+    "type": "Local Info"
+  },
+  {
+    "city": "Palu",
+    "station": "Radio Nebula",
+    "frequency": "101.0 FM",
+    "type": "Emergency"
+  },
+  {
+    "city": "Yogyakarta",
+    "station": "RRI Jogja Pro 1",
+    "frequency": "91.1 FM",
+    "type": "Merapi Monitor"
+  },
+  {
+    "city": "Surabaya",
+    "station": "Suara Surabaya",
+    "frequency": "100.0 FM",
+    "type": "Disaster News"
+  }
+]
